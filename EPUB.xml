@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultsResponse>
+  <submittedbook>
+    <status>2</status>
+    <bookName>6561000001096_new.epub</bookName>
+    <key>5662022</key>
+    <startTime>2023-02-27T07:07:59.1583573-05:00</startTime>
+    <endTime>2023-02-27T07:08:15.4963483-05:00</endTime>
+    <message />
+    <result>
+      <description>Validating against EPUB version 3.0</description>
+      <engine>ePubCheck</engine>
+      <severity>Info</severity>
+      <line>0</line>
+      <location />
+    </result>
+    <result>
+      <description>Check finished with warnings or errors!</description>
+      <engine>ePubCheck</engine>
+      <severity>Info</severity>
+      <line>0</line>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>84</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>102</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>84</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>167</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>84</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>163</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>127</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>84</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>117</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>98</line>
+      <location>OEBPS/UNAUNULE-47-2.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>86</line>
+      <location>OEBPS/UNAUNULE-47-3.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>169</line>
+      <location>OEBPS/UNAUNULE-47-3.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>97</line>
+      <location>OEBPS/UNAUNULE-47-3.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>94</line>
+      <location>OEBPS/UNAUNULE-47-5.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>205</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>317</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>372</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>424</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>477</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>529</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>590</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>642</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>700</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>752</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>805</line>
+      <location>OEBPS/UNAUNULE-47-6.xhtml</location>
+    </result>
+    <result>
+      <description>Error while parsing file 'value of attribute "lang" is invalid; must be an RFC 3066 language identifier'.</description>
+      <engine>ePubCheck</engine>
+      <severity>Error</severity>
+      <line>0</line>
+      <location> There are 765 additional locations for this message.</location>
+    </result>
+    <result>
+      <description>WARNING: C:\Ebsco\ContentValidation.EPUB\epub_components\unzipped\44cd5486-aa1c-4045-a853-9ccf9a40f9be\6561000001096_new.epub/OEBPS/content.opf(84)font/Aldine401BT-BoldA.ttf is an encrypted non-required entry! Epubcheck will not validate font/Aldine401BT-BoldA.ttf</description>
+      <engine>Preflight</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+    </result>
+    <result>
+      <description>WARNING: C:\Ebsco\ContentValidation.EPUB\epub_components\unzipped\44cd5486-aa1c-4045-a853-9ccf9a40f9be\6561000001096_new.epub/OEBPS/content.opf(85)font/Aldine401BT-ItalicA.ttf is an encrypted non-required entry! Epubcheck will not validate font/Aldine401BT-ItalicA.ttf</description>
+      <engine>Preflight</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+    </result>
+    <result>
+      <description>WARNING: C:\Ebsco\ContentValidation.EPUB\epub_components\unzipped\44cd5486-aa1c-4045-a853-9ccf9a40f9be\6561000001096_new.epub/OEBPS/content.opf(86)font/Aldine401BT-RomanA.ttf is an encrypted non-required entry! Epubcheck will not validate font/Aldine401BT-RomanA.ttf</description>
+      <engine>Preflight</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+    </result>
+    <result>
+      <description>WARNING: C:\Ebsco\ContentValidation.EPUB\epub_components\unzipped\44cd5486-aa1c-4045-a853-9ccf9a40f9be\6561000001096_new.epub/OEBPS/content.opf(87)font/TimesNewRomanPSMT.ttf is an encrypted non-required entry! Epubcheck will not validate font/TimesNewRomanPSMT.ttf</description>
+      <engine>Preflight</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+    </result>
+    <result>
+      <description>Check finished with warnings or errors!</description>
+      <engine>Preflight</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+    </result>
+    <result>
+      <description> 37 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 41 -  No declarations in the rule</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 64 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 65 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 66 -  Property -epub-text-align-last is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 88 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 89 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 111 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 112 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 134 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 135 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 157 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 158 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 159 -  Property -epub-text-align-last is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 181 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 182 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 204 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 205 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 227 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 228 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 250 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 251 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 252 -  Property -epub-text-align-last is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 274 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 275 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 276 -  Property -epub-text-align-last is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 298 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 299 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 300 -  Property -epub-text-align-last is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 322 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 323 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 324 -  Property -epub-text-align-last is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 346 -  Property -epub-hyphens is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description> 347 -  Property -epub-line-break is an unknown vendor extension</description>
+      <engine>W3C CSS Validator</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+      <location>idGeneratedStyles.css</location>
+    </result>
+    <result>
+      <description>EPUB archive contains encrypted file.</description>
+      <engine>RPS</engine>
+      <severity>Warning</severity>
+      <line>0</line>
+    </result>
+    <errorsCount>26</errorsCount>
+    <warningsCount>40</warningsCount>
+  </submittedbook>
+</resultsResponse>
